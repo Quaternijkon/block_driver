@@ -1,0 +1,15 @@
+[workspace]
+members = [
+    "src/arch",
+    "src/config",
+    "src/constants",
+    "src/device_interface",
+    "src/devices",
+    "src/drivers",
+    "src/ksync",
+    "src/mem",
+    "src/platform",
+    "src/shim",
+    "src/timer",
+    "src/interrupt",
+]
